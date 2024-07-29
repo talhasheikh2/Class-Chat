@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "581617546335",
+    "firebase_url": "https://classchat-506a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "classchat-506a0",
+    "storage_bucket": "classchat-506a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581617546335:android:1781d8b49f85bcbf9697ea",
+        "android_client_info": {
+          "package_name": "com.example.classchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaY5hrLr4qHSyHsWhk0juhaUP1uweSC4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
